@@ -1,2 +1,1 @@
-# clap-box-switch
-DIY Arduino Clap Box Switch
+# DIY Arduino Clap Switch Box
